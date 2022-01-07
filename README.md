@@ -12,3 +12,5 @@ En la carpeta Jupyter Notebook, existeixen dos ipynb en el qual es produeix la n
 ![3](https://user-images.githubusercontent.com/80782114/148506429-13a2bee6-37c1-47e9-84c4-f160a6ac2276.png)
 
 En la carpeta Visualitzacions, es troben les imatges dels gràfics ordenades per carpetes. 
+
+![4](https://user-images.githubusercontent.com/80782114/148506568-5c357267-6d2a-4ada-9106-b1f8a32278fe.png)
